@@ -1,7 +1,41 @@
 URL Netlify:
 contrataciondigitalseguros.netlify.app
 
-# Cubrí Seguros · Seguro de celular
+Prototipo de figma:
+https://www.figma.com/design/JUvRxSBSCKIb1DshiKqMQh/Contrataci%C3%B3n-Digital?node-id=7-621&p=f&t=nA4bGKDHPY1WQz5P-0
+
+![inicio app](https://github.com/gisellasolrodriguez-oss/Contrataci-n-digital-seguros/blob/aa6eb145e4653b14977d16229376e6444573f8eb/screenshots/01%20%C2%B7%20Inicio.png)
+
+![Cotizar app](https://github.com/gisellasolrodriguez-oss/Contrataci-n-digital-seguros/blob/aa6eb145e4653b14977d16229376e6444573f8eb/screenshots/02%20%C2%B7%20Cotizar.png)
+
+![Elegir plan app](https://github.com/gisellasolrodriguez-oss/Contrataci-n-digital-seguros/blob/aa6eb145e4653b14977d16229376e6444573f8eb/screenshots/03%20%C2%B7%20Elegir%20plan.png)
+
+![Datos personales app](https://github.com/gisellasolrodriguez-oss/Contrataci-n-digital-seguros/blob/aa6eb145e4653b14977d16229376e6444573f8eb/screenshots/04%20%C2%B7%20Datos%20personales.png)
+
+![pago app](https://github.com/gisellasolrodriguez-oss/Contrataci-n-digital-seguros/blob/aa6eb145e4653b14977d16229376e6444573f8eb/screenshots/05%20%C2%B7%20Pago.png)
+
+![confirmacion app](https://github.com/gisellasolrodriguez-oss/Contrataci-n-digital-seguros/blob/aa6eb145e4653b14977d16229376e6444573f8eb/screenshots/06%20%C2%B7%20Confirmaci%C3%B3n.png)
+
+![error de pago app](https://github.com/gisellasolrodriguez-oss/Contrataci-n-digital-seguros/blob/aa6eb145e4653b14977d16229376e6444573f8eb/screenshots/07%20%C2%B7%20Error%20de%20pago.png)
+
+![inicio desktop](https://github.com/gisellasolrodriguez-oss/Contrataci-n-digital-seguros/blob/aa6eb145e4653b14977d16229376e6444573f8eb/screenshots/D01%20%C2%B7%20Inicio.png)
+
+![Cotizar desktop](https://github.com/gisellasolrodriguez-oss/Contrataci-n-digital-seguros/blob/aa6eb145e4653b14977d16229376e6444573f8eb/screenshots/D02%20%C2%B7%20Cotizar.png)
+
+![elegir plan desktop](https://github.com/gisellasolrodriguez-oss/Contrataci-n-digital-seguros/blob/aa6eb145e4653b14977d16229376e6444573f8eb/screenshots/D03%20%C2%B7%20Elegir%20plan.png)
+
+![Datos desktop](https://github.com/gisellasolrodriguez-oss/Contrataci-n-digital-seguros/blob/aa6eb145e4653b14977d16229376e6444573f8eb/screenshots/D04%20%C2%B7%20Datos%20personales.png)
+
+![Pago](https://github.com/gisellasolrodriguez-oss/Contrataci-n-digital-seguros/blob/aa6eb145e4653b14977d16229376e6444573f8eb/screenshots/D05%20%C2%B7%20Pago.png)
+
+![Confirmacion desktop](https://github.com/gisellasolrodriguez-oss/Contrataci-n-digital-seguros/blob/aa6eb145e4653b14977d16229376e6444573f8eb/screenshots/D06%20%C2%B7%20Confirmaci%C3%B3n.png)
+
+![Error pago desktop](https://github.com/gisellasolrodriguez-oss/Contrataci-n-digital-seguros/blob/aa6eb145e4653b14977d16229376e6444573f8eb/screenshots/D07%20%C2%B7%20Error%20de%20pago.png)
+
+
+
+
+# Cubrí Seguros · Seguros
 
 Prototipo de contratación digital para celulares y bicicletas, con diseños responsive de referencia para desktop (1440 px) y mobile (390 px). El flujo y el estado son compartidos; no se conecta a un backend ni procesa pagos reales.
 
