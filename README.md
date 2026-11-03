@@ -1,3 +1,6 @@
+URL Netlify:
+contrataciondigitalseguros.netlify.app
+
 # Cubrí Seguros · Seguro de celular
 
 Prototipo de contratación digital para celulares y bicicletas, con diseños responsive de referencia para desktop (1440 px) y mobile (390 px). El flujo y el estado son compartidos; no se conecta a un backend ni procesa pagos reales.
