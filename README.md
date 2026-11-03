@@ -1,5 +1,5 @@
 URL Netlify:
-contrataciondigitalseguros.netlify.app
+https://contrataciondigitalseguros.netlify.app/
 
 Prototipo de figma:
 https://www.figma.com/design/JUvRxSBSCKIb1DshiKqMQh/Contrataci%C3%B3n-Digital?node-id=7-621&p=f&t=nA4bGKDHPY1WQz5P-0
